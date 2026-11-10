@@ -1,22 +1,28 @@
-¡Hola!  Soy Agustina Chacón
+# ¡Hola! Soy Agustina Chacón 👋
 
-💻 Estudiante de programación 
+💻 **Estudiante de Programación | Desarrolladora en formación**
 
-🚀 Sobre mí
+## 🚀 Sobre mí
+Soy estudiante de programación y me interesa el desarrollo de software y la creación de aplicaciones web.
+Durante mi formación he trabajado en proyectos individuales y grupales, poniendo en práctica conocimientos de programación, desarrollo backend, bases de datos y herramientas de trabajo colaborativo.
+Me gusta aprender nuevas tecnologías, resolver problemas y seguir desarrollando mis habilidades.
 
-* 📚 Estoy aprendiendo programación.
-* 🔧 Estoy practicando con proyectos y ejercicios.
-* 🎯 Mi objetivo es crecer en el mundo de la tecnología.
+## 🛠️ Tecnologías y herramientas
+- **Lenguajes:** Java, JavaScript, HTML y CSS.
+- **Backend:** Node.js, Spring Boot.
+- **Bases de datos:** MongoDB.
+- **Herramientas:** Git, GitHub, Visual Studio Code.
+## 📂 Proyectos destacados
+- **PuntoZero – E-commerce:** proyecto grupal de comercio electrónico. Participación en el desarrollo del catálogo y módulo de inventario.
+- **TeacherFlow:** propuesta de aplicación web para la planificación y organización de actividades docentes.
+- **Proyectos académicos:** ejercicios y desarrollos realizados durante mi formación en programación.
+- 
+## 🎯 Objetivo profesional
 
-🛠️ Tecnologías que estoy aprendiendo
+Continuar creciendo en el área del desarrollo de software, adquirir experiencia y participar en proyectos que me permitan aplicar y ampliar mis conocimientos.
 
-* Java
-* Spring Boot
-* Git y GitHub
+## 📫 Contacto
 
-
-🌱 Mi objetivo
-
-Aprender algo nuevo cada día y mejorar mis habilidades como desarrolladora.
+- GitHub: [AgustinaChacon](https://github.com/AgustinaChacon)
 
 ¡Gracias por visitar mi perfil! 😊
