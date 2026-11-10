@@ -16,7 +16,7 @@ Me gusta aprender nuevas tecnologías, resolver problemas y seguir desarrollando
 - **PuntoZero – E-commerce:** proyecto grupal de comercio electrónico. Participación en el desarrollo del catálogo y módulo de inventario.
 - **TeacherFlow:** propuesta de aplicación web para la planificación y organización de actividades docentes.
 - **Proyectos académicos:** ejercicios y desarrollos realizados durante mi formación en programación.
-- 
+
 ## 🎯 Objetivo profesional
 
 Continuar creciendo en el área del desarrollo de software, adquirir experiencia y participar en proyectos que me permitan aplicar y ampliar mis conocimientos.
